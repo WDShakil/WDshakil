@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/wdshakil" target="blank"><img src="https://img.shields.io/twitter/follow/wdshakil?logo=twitter&style=for-the-badge" alt="wdshakil" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **React And Mongo DB**
 
 - 👯 I’m looking to collaborate on [EvolutionAquerium](https://dev.to/rahuldkjain)
 
-- 🤝 I’m looking for help with **V Translator**
+- 🤝 I’m looking for help with **SEO Expert**
 
 - 👨‍💻 All of my projects are available at [softstok.com](softstok.com)
 
